@@ -18,7 +18,7 @@ Scooter locks are very convenient when in a college atmosphere, as they provide 
 
  - open lock with default combination "0000"
 
-   > ![first](.jpeg)
+   > ![first](IMG_4929.jpeg)
 
    
 3. Begin to reset password
