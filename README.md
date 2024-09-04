@@ -35,11 +35,18 @@ Scooter locks are very convenient when in a college atmosphere, as they provide 
 
 5. Confirm the combination
 
-   -Rotate the knob backward 90 degrees to the default position
+ - Rotate the knob backward 90 degrees to the default position
 
   > ![fourth](IMG_4932.jpeg)
 
-6. 
+6. Mess up combination
+
+- Randomly sort your numbers so that no one knows your password
+
+7. Fasten and hook lock to scooter
+
+> ![fifth](IMG_.jpeg)
+9. 
 
 
 
