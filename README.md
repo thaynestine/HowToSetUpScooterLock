@@ -51,7 +51,7 @@ Scooter locks are very convenient when in a college atmosphere, as they provide 
 
 - Push button on scooter to release the lock
 
-  > ![sixth](IMG_.jpeg)
+  > ![sixth](IMG_4936.jpeg)
 
 
 
