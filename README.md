@@ -17,7 +17,9 @@ Scooter locks are very convenient when in a college atmosphere, as they provide 
 2. Open lock
 
  - open lock with default combination "0000"
- - 
+
+   > ![first](.jpeg)
+
    
 3. Begin to reset password
  - Rotate
