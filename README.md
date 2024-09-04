@@ -45,8 +45,9 @@ Scooter locks are very convenient when in a college atmosphere, as they provide 
 
 7. Fasten and hook lock to scooter
 
-> ![fifth](IMG_.jpeg)
-9. 
+> ![fifth](IMG_4935.jpeg)
+
+8. 
 
 
 
